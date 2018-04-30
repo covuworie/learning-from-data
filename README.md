@@ -1,11 +1,7 @@
 # learning-from-data
 Introductory Machine Learning Online Course (MOOC) from Caltech
 
-![alt text][logo]
-
-[logo]: https://work.caltech.edu/images1/icon.png "course logo"
-
-This repository contains code solutions in the form of Jupyter notebooks for the homeworks and final for the Caltech introductory Machine Learning course (MOOC) **Learning from Data**. The course is taught by [Professor Yaser Abu-Mostafa](https://work.caltech.edu/index.html) and is available at https://work.caltech.edu/telecourse.html with the associated *course materials* and *video lectures*:
+This repository contains code solutions in the form of Jupyter notebooks for the homeworks and final of the Caltech introductory Machine Learning course (MOOC) [Learning from Data](https://work.caltech.edu/telecourse.html). The course is taught by [Professor Yaser Abu-Mostafa](https://work.caltech.edu/index.html) who has provided the associated *course materials* and *video lectures*:
 
 * [Lecture slides](https://work.caltech.edu/lectures.html)
 * [Video lectures](http://www.youtube.com/playlist?list=PLD63A284B7615313A)
